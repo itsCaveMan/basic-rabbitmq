@@ -1,6 +1,8 @@
 # ItsCaveMan
 ## _basic-rabbitmq_
+🐰RabbitMQ 🐳Docker 📮NPM 🧩Node.JS 
 ##### _Bare bones RabbitMQ playgound_
+
 
 [![N|Solid](https://www.cavan.works/static/images/favi.jpg)](http://www.cavan.works)
 
